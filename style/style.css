@@ -1,0 +1,180 @@
+#headeris-sia{
+	list-style: none;
+	display: flex;
+	font-family: poppins;
+	font-size: 14px;
+}
+body{
+	width: 1600px;
+}
+header{
+	width: 1600px;
+}
+header > div{
+	display: flex;
+}
+.chamonatvali{
+	padding-right: 40px;
+	margin-top: 48px;
+	margin-bottom: 49px;
+}
+#logo{
+	width: 138px;
+	height: 93px;
+	margin-left: 140px;
+	margin-top: 20px;
+	padding-right: 119px;
+}
+#headeris-foto{
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 24px;
+}
+.text{
+	color: white;
+	left: 50%;
+	position: absolute;
+	top :40%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	font-family: poppins;
+	font-size: 22px;
+}
+.didi{
+	color: white;
+	left: 50%;
+	position: absolute;
+	top :45%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+	font-family: Playfair Display;
+	font-size: 48px;
+}
+.post{
+	color: rgb(255, 122, 0);
+	font-family: poppins;
+	font-size: 22px;
+	margin-top: 84px;
+	margin-left: 172px;
+	margin-bottom: 81px;
+}
+.info{
+    width: 636px;
+    height: 673px;
+    margin-left: 138px;
+}
+.foto{
+	width: 636px;
+	height: 423px;
+	border-top-left-radius: 5rem;
+	border-top-right-radius: 10rem;
+	border-bottom-left-radius:10rem;
+	border-bottom-right-radius: 5rem;
+}
+.pirveli{
+	font-family: Playfair Display;
+	font-size: 36px;
+	margin-top: 22px;
+	margin-bottom: 22px;
+	text-shadow: 2px 1px;
+}
+.meore{
+	font-family: poppins;
+	color: rgb(123, 123, 123);
+	font-size: 14px;
+	margin-top: 22px;
+	margin-bottom: 13px;
+	height: 81px;
+	line-height: 26px;
+}
+.more{
+	color: rgb(255, 122, 0);
+	font-family: poppins;
+	font-size: 13px;
+
+}
+.xazi{
+	margin-left: 18px;
+}
+.meore-info{
+	width: 636px;
+	height: 423px;
+	margin-left: 52px;
+	margin-right: 138px;
+}
+.pirveli-mtliani{
+	display: flex;
+}
+.video{
+	width: 636px;
+	height: 423px;
+}
+.meore-mtliani{
+	display: flex;
+}
+.load{
+	margin-left: 705px;
+    margin-right: 705px;
+    margin-top: 66px;
+    margin-bottom: 134px;
+}
+.shavi{
+	width: 100%;
+	height: 266px;
+}
+footer{
+	height: 502px;
+	width: 1600px;
+}
+.sia{
+	list-style: none;
+	font-family: poppins;
+	font-size: 14px;
+	line-height: 36px;
+	color: rgb(123, 123, 123);
+	margin-right: 198px;
+	margin-bottom: 205px;
+	margin-left: 138px;
+}
+.satauri{
+	margin-top: 82px;
+	margin-right: 198px;
+	margin-bottom: 15px;
+	margin-left: 138px;
+
+}
+.footer-div{
+	display: flex;
+}
+.meore-sia{
+	list-style: none;
+	font-family: poppins;
+	font-size: 14px;
+	line-height: 36px;
+	color: rgb(123, 123, 123);
+	margin-right: 232px;
+	margin-bottom: 205px;
+}
+.meore-satauri{
+	margin-top: 82px;
+    margin-right: 242px;
+    margin-bottom: 15px;
+}
+.mesame-satauri{
+	margin-bottom: 15px;
+	margin-top: 82px;
+	margin-right: 217px;
+}
+.mesame-sia{
+	list-style: none;
+	font-family: poppins;
+	font-size: 14px;
+	line-height: 36px;
+	color: rgb(123, 123, 123);
+	margin-right: 224px;
+	margin-bottom: 205px;
+}
+.map{
+	margin-top: 82px;
+}
